@@ -3,4 +3,8 @@
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="user1">Jugador 1</string>
+    <string name="user2">Jugador 2</string>
+    <string name="user3">Jugador 3</string>
 </resources>
